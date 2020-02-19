@@ -1,0 +1,12 @@
+{
+  "name": "ExerciciosJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Arthurdb1999/ExerciciosJS.git",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.2"
+  }
+}
